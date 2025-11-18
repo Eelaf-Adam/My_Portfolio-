@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
 }
 
 header {
@@ -21,7 +21,7 @@ padding: 10px 200px;
 
 .logo{
     text-decoration: none;
-    color: purple;
+    color: royalblue;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 1.8em;
@@ -54,7 +54,7 @@ section{
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    
+
 }
 
 .main h2{
@@ -65,7 +65,7 @@ section{
 .main h2 span{
     display: inline-block;
     margin-top: 10px;
-    color: purple;
+    color: royalblue;
     font-size: 3em;
     font-weight: 600;
 }
@@ -80,7 +80,7 @@ section{
 
 .main-btn{
     color: black;
-    background-color: purple;
+    background-color: royalblue;
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 600;
@@ -95,7 +95,7 @@ section{
 .main-btn:hover{
     background-color: blueviolet;
     transform: scale(1.1);
-     
+
 }
 
 .social-icons a{
@@ -107,7 +107,7 @@ section{
 .title{
     display: flex;
     justify-content: center;
-    color: purple;
+    color: royalblue;
     font-size:  2.2em;
     font-weight: 800;
     margin-bottom: 30px;
@@ -120,7 +120,7 @@ section{
     flex-wrap: wrap;
 }
 .card{
-    background-color: purple;
+    background-color: royalblue;
     width: 21.25em;
     box-shadow: 0 5px 25px rgba(1 1 1 / 15%) ;
     border-radius: 10px;
@@ -134,7 +134,7 @@ section{
 }
 
 .icon{
-    color: purple;
+    color: royalblue;
     font-size: 8em;
     text-align: center;
 }
@@ -152,12 +152,12 @@ section{
 
 .contact .icon{
     font-size: 4.5em;
-    
+
 }
 
 .contct .info h3{
     color: black;
-   
+
 }
 
 .contact .info p{
